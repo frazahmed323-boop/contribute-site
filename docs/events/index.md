@@ -1,4 +1,4 @@
----
+.---
 title: Events
 description: "CNCF Events: KubeCon, Maintainer Summits, and Project Activities"
 sidebar_position: 6
